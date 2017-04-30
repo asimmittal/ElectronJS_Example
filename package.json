@@ -1,0 +1,23 @@
+{
+  "name": "electronjs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asimmittal/ElectronJS_Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asimmittal/ElectronJS_Example/issues"
+  },
+  "homepage": "https://github.com/asimmittal/ElectronJS_Example#readme",
+  "devDependencies": {
+    "electron": "^1.6.6",
+    "walk": "^2.3.9"
+  }
+}
