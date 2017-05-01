@@ -34,6 +34,7 @@ function handleScanStart(){
 function handleScanEnd(){
     progLoader.style.display = "none";
     btnSelectFolder.disabled = false;
+    alert("Scan complete!");
 }
 
 /**********************************************************************************
